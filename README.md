@@ -1,2 +1,21 @@
-# famous-people-data-visualization-powerbi
-Interactive Power BI dashboard analyzing global famous people — exploring trends in professions, lifespans, birth countries, and historical timelines.
+# 🌟 Celebrity Insights – Power BI Dashboard
+
+This project uses Power BI to visualize data on 20 global celebrities from music, film, and the arts.  
+It explores:
+- Top professions and gender distribution
+- Countries of origin
+- Age ranges and career timelines
+- Awards won and success rankings
+- Networks and connections between celebrities
+
+📌 **Key Features:**
+- Profession and country filters for targeted insights  
+- Award count breakdown by category  
+- Comparative ranking of most and least successful celebrities  
+- Interactive charts for exploring age groups and career paths  
+
+**Tools Used:**  
+- Power BI Desktop  
+- Data modeling and transformation with Power Query  
+
+---
