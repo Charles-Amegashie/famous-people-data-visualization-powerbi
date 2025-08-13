@@ -1,3 +1,5 @@
+![Celebrity Insights Dashboard](https://github.com/Charles-Amegashie/famous-people-data-visualization-powerbi/blob/main/FAMOUS%20PEOPLE.png)
+
 # 🌟 Celebrity Insights – Power BI Dashboard
 
 This project uses Power BI to visualize data on 20 global celebrities from music, film, and the arts.  
