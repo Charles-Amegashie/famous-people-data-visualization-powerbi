@@ -34,8 +34,9 @@ It explores:
 - **Source:** Loaded from a **SQL database** (stars/awards tables).
 - **Core fields:** `name`, `profession`, `country`, `age`, `award_type`, `award_count`, `success_amount`.
 - **Row count:** Small curated dataset (20 celebrities) suitable for clear storytelling and quick exploration.
+---
 
-
+## Conclusion
 📌 **Key Features:**
 - Profession and country filters for targeted insights  
 - Award count breakdown by category  
